@@ -1,16 +1,26 @@
-### Hi there 👋
+```
+Hello World 👋
+```
 
-<!--
-**andreas-globi/andreas-globi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚧 I'm currently working on ...
+ - [InfoLobby](https://infolobby.com) - An all-in-one team collaboration and work management platform
 
-Here are some ideas to get you started:
+### 🏆 I'm most recognized for ...
+ - [GlobiFlow](https://workflow-automation.podio.com/) - An automation add-on for Podio (aqcuired by Podio in 2017)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌎 Also worth noting ...
+ - [ProcFu](https://procfu.com) - An external app builder for Podio
+ - [GlobiMail](http://www.globimail.com) - An Email communication add-on for Podio
+
+### 🧔 About me ...
+```
+class About {
+  public static function me() {
+    return [
+      "code" => ["PHP", "JavaScript", "MySQL"],
+      "os" => ["Linux", "ChromeOS"],
+      "site" => new link("Globi Web Solutions", "http://globi.ca"),
+    ];
+  }
+}
+```
