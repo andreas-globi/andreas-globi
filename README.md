@@ -13,13 +13,13 @@ Hello World 👋
  - [GlobiMail](http://www.globimail.com) - An Email communication add-on for Podio
 
 ### 🧔 About me ...
-```
+```php
 class About {
   public static function me() {
     return [
       "code" => ["PHP", "JavaScript", "MySQL"],
-      "os" => ["Linux", "ChromeOS"],
-      "site" => new link("Globi Web Solutions", "http://globi.ca"),
+      "o_s" => ["Linux", "ChromeOS"],
+      "website" => new link("Globi Web Solutions", "http://globi.ca"),
     ];
   }
 }
